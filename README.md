@@ -11,6 +11,8 @@ WordPress.xml
 
 To install it, find your [configuration directory](http://www.jetbrains.com/phpstorm/webhelp/project-and-ide-settings.html) and then put it in the `/config/codestyles/` subfolder.
 
-WordPress Support in PhpStorm?
+WordPress Support in PhpStorm
 ---------
-If you are a PhpStorm user and a WordPress developer [consider letting JetBrains know](http://youtrack.jetbrains.com/issue/WI-852) that specific support of WordPress in PhpStorm would be greatly appreciated. Vote it up!
+PhpStorm has added support for WordPress as of Version 8 which is currently available by JetBrains as part of their [Early Access Program](http://confluence.jetbrains.com/display/PhpStorm/PhpStorm+Early+Access+Program).
+
+There is an [in depth tutorial](http://confluence.jetbrains.com/display/PhpStorm/WordPress+Development+using+PhpStorm) to learn how to use these new features for WordPress development (including plugins, themes and core).
